@@ -1,0 +1,16 @@
+{
+  "name": "React boilerplate",
+  "short_name": "Boilerplate",
+  "icons": [
+    {
+      "src": "/next.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    }
+  ],
+  "background_color": "#06092B",
+  "description": "Simple boilerplate using Next, TypeScript and React",
+  "display": "fullscreen",
+  "start_url": "/",
+  "theme_color": "06092B"
+}
